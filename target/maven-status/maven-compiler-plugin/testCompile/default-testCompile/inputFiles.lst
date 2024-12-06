@@ -1,0 +1,5 @@
+/home/idd_amlima/Documents/courses/udemy-testes-automatizados/sw-planet-api/src/test/java/br/com/drianodev/starwars_planet_api/PlanetIT.java
+/home/idd_amlima/Documents/courses/udemy-testes-automatizados/sw-planet-api/src/test/java/br/com/drianodev/starwars_planet_api/common/PlanetConstants.java
+/home/idd_amlima/Documents/courses/udemy-testes-automatizados/sw-planet-api/src/test/java/br/com/drianodev/starwars_planet_api/domain/PlanetRepositoryTest.java
+/home/idd_amlima/Documents/courses/udemy-testes-automatizados/sw-planet-api/src/test/java/br/com/drianodev/starwars_planet_api/domain/PlanetServiceTest.java
+/home/idd_amlima/Documents/courses/udemy-testes-automatizados/sw-planet-api/src/test/java/br/com/drianodev/starwars_planet_api/web/PlanetControllerTest.java

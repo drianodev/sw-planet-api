@@ -1,0 +1,7 @@
+/home/idd_amlima/Documents/courses/udemy-testes-automatizados/sw-planet-api/src/main/java/br/com/drianodev/starwars_planet_api/StarwarsPlanetApiApplication.java
+/home/idd_amlima/Documents/courses/udemy-testes-automatizados/sw-planet-api/src/main/java/br/com/drianodev/starwars_planet_api/domain/Planet.java
+/home/idd_amlima/Documents/courses/udemy-testes-automatizados/sw-planet-api/src/main/java/br/com/drianodev/starwars_planet_api/domain/PlanetRepository.java
+/home/idd_amlima/Documents/courses/udemy-testes-automatizados/sw-planet-api/src/main/java/br/com/drianodev/starwars_planet_api/domain/PlanetService.java
+/home/idd_amlima/Documents/courses/udemy-testes-automatizados/sw-planet-api/src/main/java/br/com/drianodev/starwars_planet_api/domain/QueryBuilder.java
+/home/idd_amlima/Documents/courses/udemy-testes-automatizados/sw-planet-api/src/main/java/br/com/drianodev/starwars_planet_api/web/GeneralExceptionHandler.java
+/home/idd_amlima/Documents/courses/udemy-testes-automatizados/sw-planet-api/src/main/java/br/com/drianodev/starwars_planet_api/web/PlanetController.java
